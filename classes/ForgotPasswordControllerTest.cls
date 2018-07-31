@@ -1,6 +1,5 @@
 /**
  * An apex page controller that exposes the site forgot password functionality
-   AUitoRabit Test
  */
 @IsTest public with sharing class ForgotPasswordControllerTest {
   	 @IsTest(SeeAllData=true) public static void testForgotPasswordController() {
